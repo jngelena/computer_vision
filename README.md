@@ -48,7 +48,7 @@ The project utilizes a CNN model based on the EfficientNetB5 architecture for im
   - Other: 0.90
 
 ### Human Emotion Detection
-- Achieved moderate accuracy with room for improvement in recognizing specific emotions like fear and sadness.
+Achieved moderate accuracy with room for improvement in recognizing specific emotions like fear and sadness.
 
 ## Tools and Libraries
 - **Programming Language**: Python
@@ -57,4 +57,4 @@ The project utilizes a CNN model based on the EfficientNetB5 architecture for im
 - **Visualization**: Training history plotted for better understanding of model performance
 
 ## Demo
-- The project includes a demo built with Streamlit, showcasing examples of the emotion detection results.
+The project includes a demo built with Streamlit through app.py, showcasing examples of the emotion detection results.
